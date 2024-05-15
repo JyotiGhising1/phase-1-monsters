@@ -6005,6 +6005,18 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Grimgor",
+      "age": 1500,
+      "description": "Grimgor is a towering ogre with moss-covered skin and a voracious appetite for anything that moves. His club leaves a trail of destruction wherever he roams, and his roar can shake the very ground beneath your feet.",
+      "id": 1002
+    },
+    {
+      "name": " Sylphira",
+      "age": 300,
+      "description": " Sylphira is a graceful nymph with shimmering wings and a voice that can soothe even the most troubled souls. She dances amidst the moonlit glades, her presence bringing life to the wilting flowers and tranquility to the restless forest.",
+      "id": 1003
     }
   ]
 }
